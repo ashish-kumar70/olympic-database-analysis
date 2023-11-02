@@ -47,7 +47,6 @@ Conclusion:
 The "Olympic Data Analysis" project leveraged Microsoft SQL Server to extract meaningful insights from a comprehensive dataset encompassing the history of the Olympic games.
 Through extensive data exploration, cleaning, and SQL querying, the project provided valuable statistical analyses and historical context on various aspects of the Olympics.
 
-Feel free to customize and expand upon this description to best represent the specific details and findings of your project.
 
 
 
